@@ -16,3 +16,8 @@ This tool will generate what we call a "Bag Diff"; A new Change Bag encapsulatin
 
 The Change Bag will be created as /path/to/bag_changes0, or you can specify
 the path yourself using the -o argument.
+
+## License
+
+See LICENSE.txt
+
