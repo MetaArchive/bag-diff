@@ -11,8 +11,7 @@ This tool will generate what we call a "Bag Diff"; A new Change Bag encapsulatin
 
 ## Usage
    
-   Usage:
-        % python bag-diff.py -m /path/to/old/manifests/dir /path/to/bag
+      $ python bag-diff.py -m /path/to/old/manifests/dir /path/to/bag
 
 The Change Bag will be created as /path/to/bag_changes0, or you can specify
 the path yourself using the -o argument.
